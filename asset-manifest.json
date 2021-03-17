@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/marimoya-store/static/js/main.151843e2.chunk.js",
+    "main.js.map": "/marimoya-store/static/js/main.151843e2.chunk.js.map",
+    "runtime-main.js": "/marimoya-store/static/js/runtime-main.f4a54e2d.js",
+    "runtime-main.js.map": "/marimoya-store/static/js/runtime-main.f4a54e2d.js.map",
+    "static/js/2.60290066.chunk.js": "/marimoya-store/static/js/2.60290066.chunk.js",
+    "static/js/2.60290066.chunk.js.map": "/marimoya-store/static/js/2.60290066.chunk.js.map",
+    "index.html": "/marimoya-store/index.html",
+    "static/js/2.60290066.chunk.js.LICENSE.txt": "/marimoya-store/static/js/2.60290066.chunk.js.LICENSE.txt",
+    "static/media/commerce.457bea4f.png": "/marimoya-store/static/media/commerce.457bea4f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4a54e2d.js",
+    "static/js/2.60290066.chunk.js",
+    "static/js/main.151843e2.chunk.js"
+  ]
+}
